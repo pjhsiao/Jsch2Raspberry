@@ -1,0 +1,6 @@
+ERROR main com.jeff.main.SSHbyJSch - com.jcraft.jsch.JSchException: Auth cancel
+INFO main com.jeff.main.SSHbyJSch - do putFile(/Users/jeff/Desktop/, /home/jeff/Desktop/, xxx.pdf)
+ERROR main com.jeff.main.SSHbyJSch - com.jcraft.jsch.JSchException: session is down
+INFO main com.jeff.main.SSHbyJSch - execCommand(. ~/Desktop/tmp.bat)
+ERROR main com.jeff.main.SSHbyJSch - com.jcraft.jsch.JSchException: session is down
+INFO main com.jeff.main.SSHbyJSch - session disconnect
